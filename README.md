@@ -1,4 +1,4 @@
-<h1>Exercícios 1</h1>
+<h1>Exercises 1</h1>
 
   <div>
     What is ICANN's responsibility?
@@ -28,7 +28,7 @@
       <p>R: It is the Internet Protocol and is responsible for routing packets on a network.</p>
    </div>
    
-   <h2>Exercícios 2</h2>
+   <h2>Exercises 2</h2>
      <div>
         The IP address class table is defined in five classes. What is the importance of the table for the organization of networks?
        <p>R:Determine the number of hosts and networks in each class.</p>
