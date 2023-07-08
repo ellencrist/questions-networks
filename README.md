@@ -1,57 +1,57 @@
 <h1>Exercícios 1</h1>
 
   <div>
-    Qual é a responsabilidade do ICANN?
-   <p>R: Distribuir os endereços IP´s e gerenciar os servidores DNS´s.</p>
+    What is ICANN's responsibility?
+     <p>R: Distribute IP addresses and manage DNS servers.</p>
   </div>
   <br>
  
   <div>
-    Qual é o papel do Switch em uma rede e porque ele sucedeu o Hub?
-    <p>R: Realizar a comutação de quadros. Sucedeu o Hub pois permite o envio Unicast dos dados.</p>
+    What is the role of the Switch in a network and why did it succeed the Hub?
+     <p>R: Perform frame switching. The Hub succeeded because it allows unicast data to be sent.</p>
   </div>
   
   <br>
   <div>
-    O cabo coaxial transporta bits através de qual meio?
-    <p>R: Fios de cobre.</p>
+  Coaxial cable carries bits through which medium?
+     <p>R: Copper wires.</p>
   </div>
     
    <br>
     <div>
-      Os protocolos TCP e UDP estão na camada 4 do Modelo OSI. Qual a diferença entre eles?
-      <p>R: A diferença é que o TCP confirma o recebimento do dado enquanto o UDP não.</p>
+      The TCP and UDP protocols are at Layer 4 of the OSI Model. What is the difference between them?
+       <p>R: The difference is that TCP acknowledges receipt of data while UDP does not.</p>
     </div>
     <br>
    <div>
-      O que é o protocolo IP?
-     <p> R: É o Internet Protocol e é responsável pelo roteamento dos pacotes em uma rede.</p>
+      What is the IP protocol?
+      <p>R: It is the Internet Protocol and is responsible for routing packets on a network.</p>
    </div>
    
    <h2>Exercícios 2</h2>
      <div>
-      A tabela de classes de endereço IP está definida em cinco classes. Qual é a importância da tabela para organização das redes?
-      <p>R:Determinar a quantidade de hosts e redes em cada classe.</p>
+        The IP address class table is defined in five classes. What is the importance of the table for the organization of networks?
+       <p>R:Determine the number of hosts and networks in each class.</p>
     </div>
     <br>
    
    <div>
-      Como funciona o fluxo de uma resolução DNS?
-    <p>R: O domínio raiz encaminha para os servidores TLD´s que direcionam para os servidores destinos </p>  
+      How does the flow of a DNS resolution work?
+     <p>R: The root domain forwards to TLD servers that forward to destination servers </p>
 </div>
    
    <div>
-      Você precisa descobrir qual foi o caminho que o pacote enviado percorreu até chegar ao destino. Qual comando pode ajudar com essa questão?
-     <p>R:Tracert </p>    
+   You need to find out which path the sent packet took to reach the destination. Which command can help with this issue?
+      <p>R:Tracert</p>  
   </div>
 
 <br>
     <div>
-        Qual é a importância de utilizar um SSO(Single Sign On)?
-     <p>R: É importante pois permite que os usuários realizem logins em diversos sistemas utilizando tokens diferentes, e estes são gerados através de um único usuário e senha. </p>    
+        What is the importance of using SSO (Single Sign On)?
+      <p>R: It is important because it allows users to login to different systems using different tokens, and these are generated through a single user and password. </p>
 </div>
 <br>
   <div>
-    Por que é importante segmentar uma rede Wireless corporativa entre funcionários e visitantes?
-    <p>R: Para isolar a rede dos funcionários onde estão localizados os dados da empresa. Permitir que os visitantes utilizem a mesma rede é uma falha de segurança e pode comprometer a rede da empresa. </p>
+    Why is it important to segment a corporate wireless network between employees and visitors?
+     <p>R: To isolate the network from employees where company data is located. Allowing visitors to use the same network is a security breach and could compromise the company's network. </p>
   </div>
